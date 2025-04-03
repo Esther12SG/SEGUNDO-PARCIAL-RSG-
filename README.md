@@ -27,4 +27,4 @@ remove(int data)'
 printList()
 reverso()
 contains(valor int)
-La lista se imprimirá asi: 8 -> 5 -> 3 -> 5 -> 4 -> 7 -> 4 -> 3 -> 6 -> 0 -> 0 -> 1 -> 0 -> 1 -> nulo
+La lista se imprimirá asi: 8 -> 5 -> 3 -> 5 -> 4 -> 7 -> 4 -> 3 -> 6 -> 0 -> 0 -> 1 -> 0 -> 1 -> nulo  
